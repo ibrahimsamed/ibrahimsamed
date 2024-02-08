@@ -18,3 +18,9 @@ websites, social media platforms, GPS systems, and more. To achieve this, I have
 circuit design, embedded systems, communication projects utilizing USRP, and machine learning. Recently, I've shifted my
 focus towards web development and applications, embarking on a full-stack adventure. Consequently, I've begun sharing insights
 through repo covering electronics, programming, and communication. I hope you find them valuable.
+
+
+![pngegg (4)](https://github.com/ibrahimsamed/ibrahimsamed/assets/101502757/f20f06ac-9f44-49e5-a487-1764d6ded1b7)
+![pngegg (5)](https://github.com/ibrahimsamed/ibrahimsamed/assets/101502757/786facaf-86f4-4cd7-a7b7-92188a444e94)
+![pngegg (6)](https://github.com/ibrahimsamed/ibrahimsamed/assets/101502757/04982079-a073-4552-bedc-45c78736f810)
+![pngegg (7)](https://github.com/ibrahimsamed/ibrahimsamed/assets/101502757/d03b2952-cb85-4160-aadd-705ecea67da0)
